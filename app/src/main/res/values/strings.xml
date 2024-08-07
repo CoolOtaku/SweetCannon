@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sweet Cannon</string>
+
+    <string name="play">PLAY</string>
+    <string name="quit">QUIT</string>
+    <string name="exit">EXIT</string>
+
+    <string name="settings">SETTINGS</string>
+    <string name="volume">VOLUME</string>
+    <string name="ok">OK</string>
+
+    <string name="you_lost">YOU LOST!</string>
+
+</resources>
