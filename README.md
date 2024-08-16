@@ -4,15 +4,15 @@
 ## Description
 <b>EN:</b>
 
-Casino 2D game, made to order. Developed using **Java Android SDK**.
+A custom made 2D arcade game. Developed using **Java Android SDK**.
 
-In the casino style of the game **Gates of Olympus**.
+**Sweet Bonanza** casino style game.
 
 <b>UA:</b>
 
-Казино 2D гра, створена на замовлення. Розроблена за допомогою **Java Android SDK**.
+Аркадна 2D гра, створена на замовлення. Розроблена за допомогою **Java Android SDK**.
 
-В стилі казино гри **Gates of Olympus**.
+В стилі казино гри **Sweet Bonanza**.
 
 #
 ## Screenshots
